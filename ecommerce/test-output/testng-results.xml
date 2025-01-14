@@ -2,12 +2,12 @@
 <testng-results ignored="0" total="5" passed="0" failed="0" skipped="5">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2025-01-08T19:45:43 IST" name="Default suite" finished-at="2025-01-08T19:45:43 IST" duration-ms="373">
+  <suite started-at="2025-01-13T19:03:39 IST" name="Default suite" finished-at="2025-01-13T19:03:40 IST" duration-ms="371">
     <groups>
     </groups>
-    <test started-at="2025-01-08T19:45:43 IST" name="Default test" finished-at="2025-01-08T19:45:43 IST" duration-ms="373">
+    <test started-at="2025-01-13T19:03:39 IST" name="Default test" finished-at="2025-01-13T19:03:40 IST" duration-ms="371">
       <class name="testcases.SignUpTest">
-        <test-method is-config="true" signature="setUp()[pri:0, instance:testcases.SignUpTest@7b2bbc3]" started-at="2025-01-08T19:45:43 IST" name="setUp" finished-at="2025-01-08T19:45:43 IST" duration-ms="156" status="FAIL">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:testcases.SignUpTest@7b2bbc3]" started-at="2025-01-13T19:03:40 IST" name="setUp" finished-at="2025-01-13T19:03:40 IST" duration-ms="132" status="FAIL">
           <exception class="org.openqa.selenium.remote.NoSuchDriverException">
             <message>
               <![CDATA[Unable to obtain: chromedriver, error chromedriver must exist: path\to\chromedriver
@@ -69,7 +69,7 @@ at org.openqa.selenium.remote.service.DriverFinder.getBinaryPaths(DriverFinder.j
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="testEmptyFirstName()[pri:0, instance:testcases.SignUpTest@7b2bbc3]" started-at="2025-01-08T19:45:43 IST" name="testEmptyFirstName" finished-at="2025-01-08T19:45:43 IST" duration-ms="0" status="SKIP">
+        <test-method signature="testEmptyFirstName()[pri:0, instance:testcases.SignUpTest@7b2bbc3]" started-at="2025-01-13T19:03:40 IST" name="testEmptyFirstName" finished-at="2025-01-13T19:03:40 IST" duration-ms="0" status="SKIP">
           <exception class="org.openqa.selenium.remote.NoSuchDriverException">
             <message>
               <![CDATA[Unable to obtain: chromedriver, error chromedriver must exist: path\to\chromedriver
@@ -131,15 +131,15 @@ at org.openqa.selenium.remote.service.DriverFinder.getBinaryPaths(DriverFinder.j
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testEmptyFirstName -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:testcases.SignUpTest@7b2bbc3]" started-at="2025-01-08T19:45:43 IST" name="tearDown" finished-at="2025-01-08T19:45:43 IST" duration-ms="0" status="SKIP">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testcases.SignUpTest@7b2bbc3]" started-at="2025-01-13T19:03:40 IST" name="tearDown" finished-at="2025-01-13T19:03:40 IST" duration-ms="0" status="SKIP">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-        <test-method is-config="true" signature="setUp()[pri:0, instance:testcases.SignUpTest@7b2bbc3]" started-at="2025-01-08T19:45:43 IST" name="setUp" finished-at="2025-01-08T19:45:43 IST" duration-ms="0" status="SKIP">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:testcases.SignUpTest@7b2bbc3]" started-at="2025-01-13T19:03:40 IST" name="setUp" finished-at="2025-01-13T19:03:40 IST" duration-ms="0" status="SKIP">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="testInvalidEmailFormat()[pri:0, instance:testcases.SignUpTest@7b2bbc3]" started-at="2025-01-08T19:45:43 IST" name="testInvalidEmailFormat" finished-at="2025-01-08T19:45:43 IST" duration-ms="2" status="SKIP">
+        <test-method signature="testInvalidEmailFormat()[pri:0, instance:testcases.SignUpTest@7b2bbc3]" started-at="2025-01-13T19:03:40 IST" name="testInvalidEmailFormat" finished-at="2025-01-13T19:03:40 IST" duration-ms="1" status="SKIP">
           <exception class="org.openqa.selenium.remote.NoSuchDriverException">
             <message>
               <![CDATA[Unable to obtain: chromedriver, error chromedriver must exist: path\to\chromedriver
@@ -201,15 +201,15 @@ at org.openqa.selenium.remote.service.DriverFinder.getBinaryPaths(DriverFinder.j
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testInvalidEmailFormat -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:testcases.SignUpTest@7b2bbc3]" started-at="2025-01-08T19:45:43 IST" name="tearDown" finished-at="2025-01-08T19:45:43 IST" duration-ms="0" status="SKIP">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testcases.SignUpTest@7b2bbc3]" started-at="2025-01-13T19:03:40 IST" name="tearDown" finished-at="2025-01-13T19:03:40 IST" duration-ms="0" status="SKIP">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-        <test-method is-config="true" signature="setUp()[pri:0, instance:testcases.SignUpTest@7b2bbc3]" started-at="2025-01-08T19:45:43 IST" name="setUp" finished-at="2025-01-08T19:45:43 IST" duration-ms="0" status="SKIP">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:testcases.SignUpTest@7b2bbc3]" started-at="2025-01-13T19:03:40 IST" name="setUp" finished-at="2025-01-13T19:03:40 IST" duration-ms="0" status="SKIP">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="testPasswordMismatch()[pri:0, instance:testcases.SignUpTest@7b2bbc3]" started-at="2025-01-08T19:45:43 IST" name="testPasswordMismatch" finished-at="2025-01-08T19:45:43 IST" duration-ms="0" status="SKIP">
+        <test-method signature="testPasswordMismatch()[pri:0, instance:testcases.SignUpTest@7b2bbc3]" started-at="2025-01-13T19:03:40 IST" name="testPasswordMismatch" finished-at="2025-01-13T19:03:40 IST" duration-ms="1" status="SKIP">
           <exception class="org.openqa.selenium.remote.NoSuchDriverException">
             <message>
               <![CDATA[Unable to obtain: chromedriver, error chromedriver must exist: path\to\chromedriver
@@ -271,15 +271,15 @@ at org.openqa.selenium.remote.service.DriverFinder.getBinaryPaths(DriverFinder.j
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testPasswordMismatch -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:testcases.SignUpTest@7b2bbc3]" started-at="2025-01-08T19:45:43 IST" name="tearDown" finished-at="2025-01-08T19:45:43 IST" duration-ms="0" status="SKIP">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testcases.SignUpTest@7b2bbc3]" started-at="2025-01-13T19:03:40 IST" name="tearDown" finished-at="2025-01-13T19:03:40 IST" duration-ms="0" status="SKIP">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-        <test-method is-config="true" signature="setUp()[pri:0, instance:testcases.SignUpTest@7b2bbc3]" started-at="2025-01-08T19:45:43 IST" name="setUp" finished-at="2025-01-08T19:45:43 IST" duration-ms="0" status="SKIP">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:testcases.SignUpTest@7b2bbc3]" started-at="2025-01-13T19:03:40 IST" name="setUp" finished-at="2025-01-13T19:03:40 IST" duration-ms="0" status="SKIP">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="testSignUp()[pri:0, instance:testcases.SignUpTest@7b2bbc3]" started-at="2025-01-08T19:45:43 IST" name="testSignUp" finished-at="2025-01-08T19:45:43 IST" duration-ms="0" status="SKIP">
+        <test-method signature="testSignUp()[pri:0, instance:testcases.SignUpTest@7b2bbc3]" started-at="2025-01-13T19:03:40 IST" name="testSignUp" finished-at="2025-01-13T19:03:40 IST" duration-ms="1" status="SKIP">
           <exception class="org.openqa.selenium.remote.NoSuchDriverException">
             <message>
               <![CDATA[Unable to obtain: chromedriver, error chromedriver must exist: path\to\chromedriver
@@ -341,15 +341,15 @@ at org.openqa.selenium.remote.service.DriverFinder.getBinaryPaths(DriverFinder.j
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testSignUp -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:testcases.SignUpTest@7b2bbc3]" started-at="2025-01-08T19:45:43 IST" name="tearDown" finished-at="2025-01-08T19:45:43 IST" duration-ms="0" status="SKIP">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testcases.SignUpTest@7b2bbc3]" started-at="2025-01-13T19:03:40 IST" name="tearDown" finished-at="2025-01-13T19:03:40 IST" duration-ms="0" status="SKIP">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-        <test-method is-config="true" signature="setUp()[pri:0, instance:testcases.SignUpTest@7b2bbc3]" started-at="2025-01-08T19:45:43 IST" name="setUp" finished-at="2025-01-08T19:45:43 IST" duration-ms="0" status="SKIP">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:testcases.SignUpTest@7b2bbc3]" started-at="2025-01-13T19:03:40 IST" name="setUp" finished-at="2025-01-13T19:03:40 IST" duration-ms="0" status="SKIP">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="testWeakPassword()[pri:0, instance:testcases.SignUpTest@7b2bbc3]" started-at="2025-01-08T19:45:43 IST" name="testWeakPassword" finished-at="2025-01-08T19:45:43 IST" duration-ms="0" status="SKIP">
+        <test-method signature="testWeakPassword()[pri:0, instance:testcases.SignUpTest@7b2bbc3]" started-at="2025-01-13T19:03:40 IST" name="testWeakPassword" finished-at="2025-01-13T19:03:40 IST" duration-ms="0" status="SKIP">
           <exception class="org.openqa.selenium.remote.NoSuchDriverException">
             <message>
               <![CDATA[Unable to obtain: chromedriver, error chromedriver must exist: path\to\chromedriver
@@ -411,7 +411,7 @@ at org.openqa.selenium.remote.service.DriverFinder.getBinaryPaths(DriverFinder.j
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testWeakPassword -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:testcases.SignUpTest@7b2bbc3]" started-at="2025-01-08T19:45:43 IST" name="tearDown" finished-at="2025-01-08T19:45:43 IST" duration-ms="0" status="SKIP">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testcases.SignUpTest@7b2bbc3]" started-at="2025-01-13T19:03:40 IST" name="tearDown" finished-at="2025-01-13T19:03:40 IST" duration-ms="0" status="SKIP">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
