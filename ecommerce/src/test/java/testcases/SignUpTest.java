@@ -22,6 +22,10 @@ public class SignUpTest extends BaseTest {
 
         // Submit the form
         signUpPage.clickCreateAccountButton();
+        
+        // Navigate to the sign-up page
+        driver.get("https://magento.softwaretestingboard.com/customer/account/");
+
 
         // Verify successful sign-up (assuming success message is displayed)
         Assert.assertTrue(signUpPage.isSuccessMessageDisplayed(), "Sign-up failed!");
